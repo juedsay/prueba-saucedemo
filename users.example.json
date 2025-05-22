@@ -1,8 +1,8 @@
 [
-    "standard_user",
-    "locked_out_user",
-    "problem_user",
-    "performance_glitch_user",
-    "error_user",
-    "visual_user"
+    "01_user",
+    "02_out_user",
+    "03_problem_user",
+    "04_performance_glitch_user",
+    "05_error_user",
+    "06_visual_user"
   ]
