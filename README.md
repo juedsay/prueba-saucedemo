@@ -82,7 +82,7 @@ npx playwright test --trace on
 ```bash
 npx playwright show-report
 ```
-###🔧 Configuración de Playwright
+### 🔧 Configuración de Playwright
 El archivo playwright.config.ts incluye las siguientes configuraciones:
 * baseURL: configurado como https://www.saucedemo.com/
 * trace: 'on-first-retry' – Captura trazas solo si el test falla al primer intento
@@ -220,7 +220,7 @@ npx playwright test --trace on
 ```bash
 npx playwright show-report
 ```
-###🔧 Playwright Configuration
+### 🔧 Playwright Configuration
 The `playwright.config.ts` file includes the following settings:
 * `baseURL`: set to https://www.saucedemo.com/
 * `trace: 'on-first-retry'` – Captures trace only if the test fails on the first attempt
