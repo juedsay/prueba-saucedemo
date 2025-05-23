@@ -74,6 +74,10 @@ npx playwright test
 ```bash
 npx playwright test --headed
 ```
+* Ejecutar test incorporando [Trace Viewer](https://playwright.dev/docs/trace-viewer) para el reporte
+```bash
+npx playwright test --trace on
+```
 * Visualizar el reporte HTML
 ```bash
 npx playwright show-report
@@ -207,6 +211,10 @@ npx playwright test
 * Run in headed mode (visible browser)
 ```bash
 npx playwright test --headed
+```
+* Run test incorporating [Trace Viewer](https://playwright.dev/docs/trace-viewer) for reporting
+```bash
+npx playwright test --trace on
 ```
 * View the HTML report
 ```bash
